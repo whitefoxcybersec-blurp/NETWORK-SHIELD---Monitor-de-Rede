@@ -120,5 +120,5 @@ Sua ajuda é muito bem-vinda\!
 -----
 
 \<div align="center"\>
-Desenvolvido com ❤️ por \<b\>[SEU NOME]\</b\>
+Desenvolvido com ❤️ por \<b\>WhiteFox\</b\>
 \</div\>
